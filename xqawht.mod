@@ -1,0 +1,3 @@
+* Cree XLAMP XQ-A White LEDs
+* * Model valid for 50mA to 300mA & Tj=25C
+.MODEL XQAWHT D  IS=6.06971E-11  N=5.41862  RS=0.67588  XTI=48.98028  EG=2.5000
